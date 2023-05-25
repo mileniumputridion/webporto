@@ -3,7 +3,7 @@ import { reactive } from "vue";
 
 const card = reactive({
   title: "Hello again!",
-  body: "My Putri Milenium Dion, i'm Technology Information student at Brawijaya University. I'm interested in becoming a backend developer.  Now I have experience with php and laravel, and am learning the GO language. In the future I'm interested in learning about springboot, docker, and a little bit about devops",
+  body: "My Putri Milenium Dion, prodi teknlogi informasi universitas brawijaya. saya sangat tertarik tentang desain ui/ux. ",
   button: "See portfolio",
 });
 </script>
